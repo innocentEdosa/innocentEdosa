@@ -25,7 +25,7 @@ I'm a **Senior Backend / Full-Stack Engineer** with **7+ years** of experience d
 
 I've built systems that serve **millions of users**, reduced page load times by **98%**, and slashed app load from **23 seconds to 3 seconds** through smart backend and frontend infrastructure decisions.
 
-When I'm not optimising APIs, I'm building [Night Class](https://nightclass.ng) — a learning platform designed for Nigerian university students and [Walk in Failth](https://wif.innocentedosa.com).
+When I'm not optimising APIs, I'm building [Night Class](https://nightclass.ng) — a learning platform designed for Nigerian university students and [Walk in Failth](https://wif.innocentedosa.com) - A faith based gamified learning platform.
 
 ---
 
