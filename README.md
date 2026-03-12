@@ -98,8 +98,8 @@ When I'm not optimising APIs, I'm building [Night Class](https://nightclass.ng) 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=innocentEdosa&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocentEdosa&layout=compact&theme=dark&hide_border=true" height="160" />
 </p>
 
 ---
@@ -109,8 +109,9 @@ When I'm not optimising APIs, I'm building [Night Class](https://nightclass.ng) 
 I'm open to senior backend roles, technical consultations, and interesting collaboration opportunities.
 
 - 📧 **Email**: admin@innocentedosa.com
-- 💼 **LinkedIn**: [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
+- 💼 **LinkedIn**: [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/innocent-edosa-066800122/)
 - 🌐 **Project**: [nightclass.ng](https://nightclass.ng)
+- 🌐 **Project**: [walkinfaith](https://wif.innocentedosa.com)
 
 ---
 
