@@ -21,11 +21,11 @@
 
 ## 🧠 About Me
 
-I'm a **Senior Backend / Full-Stack Engineer** with **7+ years** of experience designing and shipping production-grade backend systems. My focus is on **Node.js**, **GraphQL**, and **RESTful APIs** — with deep experience in system design, data modelling, and cloud infrastructure on **AWS**.
+I'm a **Senior Backend / Full-Stack Engineer** with **7+ years** of experience designing and shipping production-grade backend systems. My focus is on **Javascript Based Technologies** such as  **Node.js**, **Reactjs**, **Nestjs**, **GraphQL**, and **RESTful APIs** — with deep experience in system design, data modelling, and cloud infrastructure on **AWS**.
 
-I've built systems that serve **millions of users**, reduced page load times by **98%**, and slashed app load from **23 seconds to 3 seconds** through smart backend and infrastructure decisions.
+I've built systems that serve **millions of users**, reduced page load times by **98%**, and slashed app load from **23 seconds to 3 seconds** through smart backend and frontend infrastructure decisions.
 
-When I'm not optimising APIs, I'm building [Night Class](https://nightclass.ng) — a learning platform designed for Nigerian university students.
+When I'm not optimising APIs, I'm building [Night Class](https://nightclass.ng) — a learning platform designed for Nigerian university students and [Walk in Failth](https://wif.innocentedosa.com).
 
 ---
 
