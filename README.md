@@ -21,7 +21,7 @@
 
 ## 🧠 About Me
 
-I'm a **Senior Backend / Full-Stack Engineer** with **7+ years** of experience designing and shipping production-grade backend systems. My focus is on **Javascript Based Technologies** such as  **Node.js**, **Reactjs**, **Nestjs**, **GraphQL**, and **RESTful APIs** — with deep experience in system design, data modelling, and cloud infrastructure on **AWS**.
+I'm a **Senior Full-Stack Engineer** with **7+ years** of experience designing and shipping production-grade backend systems. My focus is on **Javascript Based Technologies** such as  **Node.js**, **Reactjs**, **Nestjs**, **GraphQL**, and **RESTful APIs** — with deep experience in system design, data modelling, and cloud infrastructure on **AWS**.
 
 I've built systems that serve **millions of users**, reduced page load times by **98%**, and slashed app load from **23 seconds to 3 seconds** through smart backend and frontend infrastructure decisions.
 
@@ -66,12 +66,12 @@ When I'm not optimising APIs, I'm building [Night Class](https://nightclass.ng) 
 
 | Company | Role | Period |
 |---|---|---|
-| **Career.io** | Senior Software Engineer | Dec 2024 – July 2025 |
+| **Career.io** | Senior Software Engineer (Frontend focused) | Dec 2024 – July 2025 |
 | **Andela (TCV)** | Full-Stack Software Engineer | Apr 2022 – Jun 2024 |
 | **Bejamas** | Software Engineer | Jun 2021 – Jul 2022 |
-| **BudgIT Foundation** | Software Engineer | Aug 2020 – Mar 2022 |
+| **BudgIT Foundation** | Fullstack Software Engineer | Aug 2020 – Mar 2022 |
 | **PunterClash** | Software Engineer | Sept 2019 – Aug 2020 |
-| **Andela** | Software Engineer (Backend) | Nov 2018 – Sept 2019 |
+| **Andela** | Fullstack Software Engineer (frontend heavy) | Nov 2018 – Sept 2019 |
 
 ---
 
