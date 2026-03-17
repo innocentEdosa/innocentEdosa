@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:ilegbinijieinnocentcareer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-admin%40innocentedosa.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-ilegbinijieinnocentcareer%40gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/innocent-edosa-066800122/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
