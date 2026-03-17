@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Innocent Edosa 👋</h1>
 
 <p align="center">
-  <strong>Senior Fullstack Engineer · Node.js · GraphQL · AWS</strong><br/>
+  <strong>Senior Fullstack Engineer. React.js. Nextjs · Node.js · GraphQL · AWS</strong><br/>
   Building scalable systems that hold up under pressure — from Lagos, Nigeria 🇳🇬
 </p>
 
