@@ -93,16 +93,7 @@ When I'm not optimising APIs, I'm building [Night Class](https://nightclass.ng) 
 - 🤖 Integrated AI-powered Q&A features for students
 - 📚 Built scalable APIs for content management and user interactions
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=innocentEdosa&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocentEdosa&layout=compact&theme=dark&hide_border=true" height="160" />
-</p>
-
----
 
 ## 📬 Get In Touch
 
